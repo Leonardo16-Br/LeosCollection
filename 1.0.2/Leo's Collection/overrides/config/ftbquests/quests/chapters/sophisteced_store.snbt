@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sophisteced_store"
+	group: "1429C3E65369ADF6"
+	id: "3A2CD8734E4DA9D9"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ae2"
+	group: "1429C3E65369ADF6"
+	id: "0449BED63180F8C8"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

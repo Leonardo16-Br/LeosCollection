@@ -1,0 +1,18 @@
+/locate structure minecraft:village_plains
+/time set day
+/locate structure minecraft:village_plains
+/tp @s -896 ~ -720
+/time set
+/time set day
+/weather rain
+/weather thunder
+/give Leozitos16 minecraft:structure_void
+/give Leozitos16 minecraft:barrier
+/effect give Leozitos16 minecraft:hero_of_the_village infinite
+/time set day
+/kill @e
+/tp Leozitos16 end
+/ftbquests
+/xp add Leozitos16 155550 levels
+/kill @e[type=!player]
+/time set day

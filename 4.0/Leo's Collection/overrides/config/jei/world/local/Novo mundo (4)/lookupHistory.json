@@ -1,0 +1,12 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:nether_star"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alexsmobs:transmutation_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alexsmobs:farseer_arm"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vinery:white_grape_bag"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"furniture:telescope"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"toms_storage:storage_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"toms_storage:crafting_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"furniture:stone_brick_planter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"furniture:copper_fish_tank"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

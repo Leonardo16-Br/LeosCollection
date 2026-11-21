@@ -1,0 +1,12 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"sophisticatedstorage:shulker_box","components":{"sophisticatedcore:main_color":-5231066,"sophisticatedcore:accent_color":-5231066}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:diamond_shulker_box"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:chest","components":{"sophisticatedstorage:wood_type":"birch"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:chest","components":{"sophisticatedcore:main_color":-6447721,"sophisticatedcore:accent_color":-6447721}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:shulker_box","components":{"sophisticatedcore:main_color":-6447721,"sophisticatedcore:accent_color":-6447721}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:limited_barrel_1","components":{"sophisticatedcore:main_color":-14869215,"sophisticatedcore:accent_color":-14869215}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:diamond_barrel","components":{"sophisticatedstorage:wood_type":"jungle"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:netherite_barrel","components":{"sophisticatedstorage:wood_type":"spruce"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:gold_barrel","components":{"sophisticatedstorage:wood_type":"cherry"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

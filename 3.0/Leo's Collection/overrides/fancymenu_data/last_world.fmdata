@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = /home/leo/.local/share/ElyPrismLauncher/instances/Leo's Collection(1)/minecraft/saves/Novo mundo (4)
+}
+

@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"recipe":"paladins:iron_kite_shield","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"minecraft:lever","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"sophisticatedstorage:backpack_auto_smelting_upgrade_from_storage_auto_smelting_upgrade","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

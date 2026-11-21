@@ -1,0 +1,22 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"ironfurnaces:diamond_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:crystal_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:rainbow_plating"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:million_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:rainbow_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:rainbow_coal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:million_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:obsidian_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:netherite_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wizards:wizard_robe_head"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wizards:wizard_robe_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wizards:wizard_robe_feet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:gem","components":{"apotheosis:gem":"apotheosis:the_nether/inferno","apotheosis:purity":"normal"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wizards:netherite_fire_robe_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wizards:netherite_fire_robe_head"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wizards:fire_robe_feet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wizards:fire_robe_legs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wizards:fire_robe_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"wizards:fire_robe_head"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

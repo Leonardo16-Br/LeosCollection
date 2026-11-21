@@ -1,0 +1,149 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a_brand_new_world"
+	group: ""
+	icon: {
+		id: "minecraft:dirt_path"
+	}
+	id: "5F8EBA9902784F79"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7578EA9CD9659657"
+			rewards: [{
+				id: "2FEFF963817CB5B9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5C3CD52DE487B3B9"
+				type: "checkmark"
+			}]
+			x: -18.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["7578EA9CD9659657"]
+			id: "732522CF53602006"
+			rewards: [{
+				id: "0AD50969E7F7B796"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "43FF07AE8C421945"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["732522CF53602006"]
+			id: "6D4E90C5823B9E3D"
+			rewards: [{
+				id: "336C3F121C7985C0"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "0E2597ED32F4BF59"
+				item: { count: 1, id: "minecraft:oak_planks" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6D4E90C5823B9E3D"]
+			id: "0CBD3BCF6F76D4AB"
+			rewards: [
+				{
+					count: 5
+					id: "615AC0BE2C19E55D"
+					item: {
+						count: 1
+						id: "minecraft:cobblestone"
+					}
+					type: "item"
+				}
+				{
+					id: "61BAE380B88759FA"
+					type: "xp"
+					xp: 350
+				}
+			]
+			tasks: [{
+				id: "41579B86622AA408"
+				item: { count: 1, id: "minecraft:wooden_pickaxe" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["6D4E90C5823B9E3D"]
+			id: "1CB353AF7D5A8DB6"
+			min_required_dependencies: 1
+			rewards: [
+				{
+					count: 5
+					id: "64B0B350028629C3"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					id: "5C2F1F96C68B4119"
+					type: "xp"
+					xp: 350
+				}
+			]
+			tasks: [
+				{
+					id: "500FF418A8E902AE"
+					item: { count: 1, id: "minecraft:wooden_sword" }
+					type: "item"
+				}
+				{
+					id: "514C013851197545"
+					item: { count: 1, id: "minecraft:wooden_axe" }
+					type: "item"
+				}
+			]
+			x: -15.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["6D4E90C5823B9E3D"]
+			id: "5085A49AAC40F651"
+			rewards: [
+				{
+					count: 15
+					id: "108F75F90819678C"
+					item: {
+						count: 1
+						id: "minecraft:wheat_seeds"
+					}
+					type: "item"
+				}
+				{
+					id: "14659646B472FB2D"
+					type: "xp"
+					xp: 350
+				}
+			]
+			tasks: [{
+				id: "129DB1904533B1E5"
+				item: { count: 1, id: "minecraft:wooden_hoe" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: -7.5d
+		}
+	]
+}
